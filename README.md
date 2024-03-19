@@ -2,9 +2,9 @@
 This smart contract represents really simple business logic, demonstrating basic and fundamental "Solidity" knowledge in conjuction with best practices with the help of contract deployment framework such as "Foundry". 
 
 The project contains:
-- **smart contracts**
-- **unit tests**
-- **deployment scripts**
+- **Smart contracts**
+- **Unit tests**
+- **Deployment scripts**
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
